@@ -1,0 +1,21 @@
+ul a{
+    margin: 5px;
+     color: white;
+     text-decoration: none;
+}
+.active{
+    color: white;
+    background-color: gray;
+    padding: 3px;
+    border-radius:5px;
+}
+.shop-cart{
+    font-size: 18px;
+}
+
+.shop-cart span{
+    position: relative;
+    color: #ff5722;
+    margin: 3px;
+    top:-6px;
+}
